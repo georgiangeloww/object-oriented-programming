@@ -1,0 +1,41 @@
+#folders
+Predifine Operations*
+
+
+
+
+# files
+
+# Compiled output
+*.exe
+*.out
+*.o
+*.obj
+
+# Build folders
+build/
+debug/
+release/
+
+# IDE files - Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+
+# IDE files - VS Code
+.vscode/
+
+# IDE files - CLion
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+
+# OS files
+# - Mac
+.DS_Store       
+# - Windows
+Thumbs.db       
