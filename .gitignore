@@ -2,9 +2,13 @@
 Predifine Operations*
 
 
-
-
 # files
+
+# ignore everything
+*
+
+# exception folders
+
 
 # Compiled output
 *.exe
